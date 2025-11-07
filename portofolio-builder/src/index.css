@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-dark-bg text-text-primary;
+  margin: 0;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+/* CSS khusus untuk print */
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+    font-family: Georgia, serif !important;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+
+  #portfolio-preview {
+    box-shadow: none !important;
+    border: none !important;
+    padding: 2cm !important;
+    max-width: 21cm !important;
+    margin: 0 auto !important;
+    background: white !important;
+    color: black !important;
+  }
+
+  h1, h2, h3 {
+    font-weight: bold !important;
+    color: #333 !important;
+  }
+
+  ul {
+    padding-left: 1.5em !important;
+  }
+
+  li::before {
+    content: "• ";
+    color: #ff2aae; /* pink accent tetap muncul */
+    font-weight: bold;
+  }
+}
