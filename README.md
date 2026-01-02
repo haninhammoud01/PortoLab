@@ -1,4 +1,4 @@
-# 🛠️ PortoLab
+# 🔗 PortoLab
 
 > **Build. Preview. Export.**  
 > Sebuah portfolio builder client-side yang aku kembangkan saat belajar React — untuk latihan dan portofolio pribadi.
@@ -14,14 +14,14 @@ PortoLab dibuat karena aku ingin punya alat sederhana untuk:
 
 ---
 
-## ✨ Features
+## Features
 
-- 🎨 3 template: **Dark Pink** (aesthetic), **Minimal** (developer), **Academic** (formal)  
-- 📥 Ekspor ke **PDF siap cetak**  
-- 💾 Data otomatis tersimpan di browser  
-- ✨ Animasi berirama (pakai Framer Motion)  
-- 🖼️ Upload avatar & screenshot proyek  
-- 🔗 Dukungan GitHub, LinkedIn, website
+- 3 template: **Dark Pink** (aesthetic), **Minimal** (developer), **Academic** (formal)  
+- Ekspor ke **PDF siap cetak**  
+- Data otomatis tersimpan di browser  
+- Animasi berirama (pakai Framer Motion)  
+- Upload avatar & screenshot proyek  
+- Dukungan GitHub, LinkedIn, website
 
 ---
 
@@ -29,7 +29,7 @@ PortoLab dibuat karena aku ingin punya alat sederhana untuk:
 
 ---
 
-## 🚀 How To Run
+## How To Run
 
 ```bash
 git clone https://github.com/haninhammoud01/PortoLab.git
