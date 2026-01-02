@@ -3,7 +3,7 @@
 > **Build. Preview. Export.**  
 > Sebuah portfolio builder client-side yang aku kembangkan saat belajar React — untuk latihan dan portofolio pribadi.
 
-![PortoLab Demo](/public/demo.png)
+![PortoLab Demo](https://raw.githubusercontent.com/haninhammoud01/PortoLab/main/public/demo.png)
 
 PortoLab dibuat karena aku ingin punya alat sederhana untuk:
 
