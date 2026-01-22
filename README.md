@@ -1,11 +1,11 @@
 # 🔗 PortoLab
 
 > **Build. Preview. Export.**  
-> Sebuah portfolio builder client-side yang aku kembangkan saat belajar React — untuk latihan dan portofolio pribadi.
+> Sebuah portfolio builder client-side yang dikembangkan saat belajar React — untuk latihan dan portofolio pribadi.
 
 ![PortoLab Demo](assets/demo.png)
 
-PortoLab dibuat karena aku ingin punya alat sederhana untuk:
+PortoLab dibuat sederhana untuk:
 
 - Mengisi data profil secara interaktif
 - Melihat preview langsung
@@ -22,10 +22,6 @@ PortoLab dibuat karena aku ingin punya alat sederhana untuk:
 - Animasi berirama (pakai Framer Motion)  
 - Upload avatar & screenshot proyek  
 - Dukungan GitHub, LinkedIn, website
-
----
-
-> _“Quietly building thoughtful software, one line at a time.”_
 
 ---
 
